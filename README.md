@@ -9,7 +9,7 @@
 ![FPGA](https://img.shields.io/badge/FPGA-MAX%2010-green?style=for-the-badge)
 ![Board](https://img.shields.io/badge/Tarjeta-DE10--Lite-orange?style=for-the-badge)
 
-<img src="img/placa.jpge" alt="Contador funcionando en la DE10-Lite" width="600">
+<img src="img/placa.jpeg" alt="Contador funcionando en la DE10-Lite" width="600">
 
 </div>
 
