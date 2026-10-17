@@ -78,7 +78,7 @@ flowchart LR
 
 ### Diagrama RTL
 
-<img src="img/rtl.png" alt="RTL Viewer de Quartus" width="800">
+<img src="img/rtl.jpeg" alt="RTL Viewer de Quartus" width="800">
 
 ---
 
@@ -86,7 +86,7 @@ flowchart LR
 
 El testbench verifica el reinicio, el conteo ascendente, la pausa, el conteo descendente pasando por cero hacia negativos y el cambio a la velocidad rápida.
 
-<img src="img/simulacion.png" alt="Formas de onda de la simulación" width="800">
+<img src="img/simulacion.jpeg" alt="Formas de onda de la simulación" width="800">
 
 ---
 
@@ -107,5 +107,3 @@ Jose Manuel Daniel Morales
 Anellise Herrera
 Abril Morales
 
-- **Sebastian Torres**
-- **José Manuel** — [@JosManuel180843](https://github.com/JosManuel180843)
